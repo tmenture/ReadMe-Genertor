@@ -1,25 +1,25 @@
 
-# a;lskdjf
+# a;sdlkfj
 
-  ;alksdjf
+  a;lksdjf
 
   
 
-  [A deployed varsion can be viewed here.](;alskdjf)
+  [A deployed varsion can be viewed here.](;laksjdf)
 
 ---
 ## Contents
 
 1. [About](#about)
-    1. [User Story](#user%20story)
-    2. [Acceptance Criteria](#acceptance%20criteria)
+    1. [User Story](#user)
+    2. [Acceptance Criteria](#acceptance)
     3. [Visuals](#visuals)
     4. [Build](#build)
-2.[Installation](#installation)
-3.[License](#license)
-4.[Contributing](#contributing)
-5.[Tests](#tests)
-6.[Authors and acknowledgment](#authors%20and%20acknowledgment)
+2. [Installation](#installation)
+3. [License](#license)
+4. [Contributing](#contribution)
+5. [Tests](#test)
+6. [Authors and acknowledgment](#author)
 
 ---
 ## About:
@@ -42,11 +42,11 @@
 ---
 ## Installation:
 
-;alksdjf
+;laksdjf
 
 To clone the repo:
 
-  git clone ;laksdjf
+  git clone ;alksdjf
 
 ---
 ## License
@@ -67,14 +67,14 @@ To clone the repo:
 
 ---
 ## Tests:
-  a;lsdkjf
+  ;alksdjf
 
 ---
 ## Authors and Acknowledgments:
-  a;sldkfj
+  ;aslkdjf
 
 ---
 ## Contact Information:
-* GitHub Username: ;alksdfj
-* GitHub Email: ;alksdjf
+* GitHub Username: ;alskdjf
+* GitHub Email: ;lakjdf
   
