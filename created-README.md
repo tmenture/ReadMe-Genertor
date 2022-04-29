@@ -1,11 +1,11 @@
 
 # Run Buddy
 
-  'a;slkf
+  Helps users find the right personal Trainer
 
   
 
-  [A deployed varsion can be viewed here.](a;lsdkfj)
+  [A deployed varsion can be viewed here.](https://github.com/tmenture/run-buddy)
 
 ---
 ## Contents
@@ -24,7 +24,7 @@
 ---
 ## About:
 
-'a;sldkf
+A user provides the infoprmation required for the site to match them with the perfect personal trainer
 
 ---
 ## User Story:
@@ -42,7 +42,7 @@
 ---
 ## Installation:
 
-a';ldfk
+no instalations required
 
 To clone the repo:
 
@@ -67,14 +67,14 @@ To clone the repo:
 
 ---
 ## Tests:
-  a;lkdfj
+  no testing is rewquired
 
 ---
 ## Authors and Acknowledgments:
-  a;ldskfj
+  Thomas Menture
 
 ---
 ## Contact Information:
-* GitHub Username: a;sdlkfj
-* GitHub Email: a;sdlkjf
+* GitHub Username: tmenture
+* GitHub Email: thomasoxemail@gmail.com
   
