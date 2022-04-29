@@ -1,20 +1,20 @@
 
-# RunBuddy
+# Run Buddy
 
-  Helps user Find personal trainer
+  'a;slkf
 
-  [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+  
 
-  [A deployed varsion can be viewed here.](https://github.com/tmenture/run-buddy)
+  [A deployed varsion can be viewed here.](a;lsdkfj)
 
 ---
 ## Contents
 
 1. [About](#about)
-  1.[User Story](#user%20story)
-  2.[Acceptance Criteria](#acceptance%20criteria)
-  3.[Visuals](#visuals)
-  4.[Build](#build)
+    1.[User Story](#user%20story)
+    2.[Acceptance Criteria](#acceptance%20criteria)
+    3.[Visuals](#visuals)
+    4.[Build](#build)
 2.[Installation](#installation)
 3.[License](#license)
 4.[Contributing](#contributing)
@@ -24,7 +24,7 @@
 ---
 ## About:
 
-helps user find a personal trainer
+'a;sldkf
 
 ---
 ## User Story:
@@ -42,7 +42,7 @@ helps user find a personal trainer
 ---
 ## Installation:
 
-No
+a';ldfk
 
 To clone the repo:
 
@@ -67,14 +67,14 @@ To clone the repo:
 
 ---
 ## Tests:
-  none required
+  a;lkdfj
 
 ---
 ## Authors and Acknowledgments:
-  thomasoxemail@gmail.com
+  a;ldskfj
 
 ---
 ## Contact Information:
-* GitHub Username: tmenture 
-* GitHub Email: thomasoxemai@gmail.com
+* GitHub Username: a;sdlkfj
+* GitHub Email: a;sdlkjf
   
