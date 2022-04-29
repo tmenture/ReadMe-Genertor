@@ -1,20 +1,20 @@
 
-# Run Buddy
+# a;lskdjf
 
-  Helps users find the right personal Trainer
+  ;alksdjf
 
   
 
-  [A deployed varsion can be viewed here.](https://github.com/tmenture/run-buddy)
+  [A deployed varsion can be viewed here.](;alskdjf)
 
 ---
 ## Contents
 
 1. [About](#about)
-    1.[User Story](#user%20story)
-    2.[Acceptance Criteria](#acceptance%20criteria)
-    3.[Visuals](#visuals)
-    4.[Build](#build)
+    1. [User Story](#user%20story)
+    2. [Acceptance Criteria](#acceptance%20criteria)
+    3. [Visuals](#visuals)
+    4. [Build](#build)
 2.[Installation](#installation)
 3.[License](#license)
 4.[Contributing](#contributing)
@@ -24,7 +24,7 @@
 ---
 ## About:
 
-A user provides the infoprmation required for the site to match them with the perfect personal trainer
+;alksdjf
 
 ---
 ## User Story:
@@ -42,11 +42,11 @@ A user provides the infoprmation required for the site to match them with the pe
 ---
 ## Installation:
 
-no instalations required
+;alksdjf
 
 To clone the repo:
 
-  git clone https://github.com/tmenture/run-buddy
+  git clone ;laksdjf
 
 ---
 ## License
@@ -67,14 +67,14 @@ To clone the repo:
 
 ---
 ## Tests:
-  no testing is rewquired
+  a;lsdkjf
 
 ---
 ## Authors and Acknowledgments:
-  Thomas Menture
+  a;sldkfj
 
 ---
 ## Contact Information:
-* GitHub Username: tmenture
-* GitHub Email: thomasoxemail@gmail.com
+* GitHub Username: ;alksdfj
+* GitHub Email: ;alksdjf
   
