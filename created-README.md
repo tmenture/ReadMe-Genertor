@@ -1,13 +1,11 @@
-// TODO: Create a function to generate markdown for README
-function generateMarkdown(data) {
-return `
-# ${data.title}
 
-  ${data.description}
+# RunBuddy
 
-  ${data.renderLicense}
+  Helps user Find personal trainer
 
-  [A deployed varsion can be viewed here.](${data.URL})
+  [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
+  [A deployed varsion can be viewed here.](https://github.com/tmenture/run-buddy)
 
 ---
 ## Contents
@@ -26,7 +24,7 @@ return `
 ---
 ## About:
 
-${data.about}
+helps user find a personal trainer
 
 ---
 ## User Story:
@@ -44,15 +42,15 @@ ${data.about}
 ---
 ## Installation:
 
-${data.installations}
+No
 
 To clone the repo:
 
-  git clone ${data.clone}
+  git clone https://github.com/tmenture/run-buddy
 
 ---
 ## License
-  License used for this project - ${data.license}
+  License used for this project - 
   * For more information on license types, please reference - [https: //choosealicense.com/](https://choosealicense.com/).
 
 ---
@@ -69,18 +67,14 @@ To clone the repo:
 
 ---
 ## Tests:
-  ${data.testing}
+  none required
 
 ---
 ## Authors and Acknowledgments:
-  ${data.author}
+  thomasoxemail@gmail.com
 
 ---
 ## Contact Information:
-* GitHub Username: ${data.gitName}
-* GitHub Email: ${data.email}
+* GitHub Username: tmenture 
+* GitHub Email: thomasoxemai@gmail.com
   
-`;
-}
-
-module.exports = generateMarkdown;

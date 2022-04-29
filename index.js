@@ -3,9 +3,9 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 const util = require('util');
 //
-const generateMarkdown = requier('./utils/generateMarkdown');
-const renderLicense = require('./utils/renderLicense').renderLicense;
-const questions = require('./utils/questions').questions;
+const generateMarkdown = require('./develop/utils/generateMarkdown');
+const renderLicense = require('./develop/utils/renderLicense').renderLicense;
+const questions = require('./develop/utils/questions').questions;
 //
 const writeFileAsync = util.promisify(fs.writeFile);
 

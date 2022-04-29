@@ -12,8 +12,10 @@ function renderLicense (value) {
         return "[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)";
     } else if (value === "GNU LGPLv3") {
         return "[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)";
-    } else {
+    } else if (value === "GNU AGPLv3") {
         return "[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)";
+    } else {
+        return "";
     }
 };
 
