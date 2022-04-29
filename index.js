@@ -1,15 +1,15 @@
-//
+// Required packages
 const inquirer = require('inquirer');
 const fs = require('fs');
 const util = require('util');
-//
+// Variables that connect modules to the application
 const generateMarkdown = require('./develop/utils/generateMarkdown');
 const renderLicense = require('./develop/utils/renderLicense').renderLicense;
 const questions = require('./develop/utils/questions').questions;
-//
+// Allows use of await
 const writeFileAsync = util.promisify(fs.writeFile);
 
-// TODO: Create a function to initialize app
+// Function that initializes app
 async function init() {
     try {
         const answers = await inquirer.prompt(questions);

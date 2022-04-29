@@ -1,4 +1,4 @@
-// TODO: Create a function to generate markdown for README
+// Function to generate markdown for a professional README
 function generateMarkdown(data) {
 return `
 # ${data.title}

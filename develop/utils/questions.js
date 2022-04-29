@@ -1,3 +1,4 @@
+// Prompted Questions for users to answer in console
 const questions = [
 
     {
