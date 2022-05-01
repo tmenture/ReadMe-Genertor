@@ -15,7 +15,7 @@ async function init() {
         const answers = await inquirer.prompt(questions);
         answers.renderLicense = renderLicense(answers.license);
         let readMe = generateMarkdown(answers);
-        await writeFileAsync("created-README.md", readMe);
+        await writeFileAsync("new-README.md", readMe);
     } catch (err) {
         throw err;
     }
