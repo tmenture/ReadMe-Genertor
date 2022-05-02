@@ -7,7 +7,7 @@ return `
 
   ${data.renderLicense}
 
-  [A deployed varsion can be viewed here.](${data.URL})
+  [A deployed version can be viewed here.](${data.URL})
 
 ---
 ## Contents

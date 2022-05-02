@@ -7,12 +7,15 @@
 * After eeverything prior is complete type node index or node index.js to run the app
 * Answer the prompts to generate your README.md file
 
-## Purpose
+## Video Demonstration Link:
+https://www.youtube.com/watch?v=SoIYIttraSA
+
+## Purpose:
 To quickly and easily generate readme files for users.
 
-## Built With
+## Built With:
 * JavaScript
 * Node.js
 
-## Contributions
+## Contributions:
 Made By Thomas Menture
