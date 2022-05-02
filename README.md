@@ -4,7 +4,7 @@
 * Copy this git repo onto your local machine (Can use this link: git@github.com:tmenture/ReadMe-Genertor.git )
 * Install node.js (Here is the link to the download: https://nodejs.org/en/download/ )
 * Run npm init, in integrated terminal, to download necessary node_modules 
-* After eeverything prior is complete type node index or node index.js to run the app
+* After everything prior is complete type node index or node index.js to run the app
 * Answer the prompts to generate your README.md file
 
 ## Video Demonstration Link:
