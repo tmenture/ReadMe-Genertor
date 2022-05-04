@@ -13,15 +13,15 @@ return `
 ## Contents
 
 1. [About](#about)
-    1. [User Story](#userStory)
-    2. [Acceptance Criteria](#acceptanceCriteria)
+    1. [User Story](#user-story)
+    2. [Acceptance Criteria](#acceptance-criteria)
     3. [Visuals](#visuals)
     4. [Build](#build)
 2. [Installations](#installations)
 3. [License](#license)
 4. [Contributions](#contributions)
 5. [Tests](#tests)
-6. [Authors](#author)
+6. [Authors](#authors)
 
 ---
 ## About:
