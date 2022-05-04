@@ -11,8 +11,8 @@
 ## Contents
 
 1. [About](#about)
-    1. [User-Story](#user-story)
-    2. [Acceptance-Criteria](#acceptance-criteria)
+    1. [User Story](#user-story)
+    2. [Acceptance Criteria](#acceptance-criteria)
     3. [Visuals](#visuals)
     4. [Build](#build)
 2. [Installations](#installations)
