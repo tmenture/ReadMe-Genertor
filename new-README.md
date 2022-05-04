@@ -1,23 +1,21 @@
-// Function to generate markdown for a professional README
-function generateMarkdown(data) {
-return `
-# ${data.title}
 
-  ${data.description}
+# 
 
-  ${data.renderLicense}
+  
 
-  [A deployed version can be viewed here.](${data.URL})
+  
+
+  [A deployed version can be viewed here.]()
 
 ---
 ## Contents
 
 1. [About](#about)
-    1. [User Story](#userStory)
-    2. [Acceptance Criteria](#acceptanceCriteria)
+    1. [User Story](#user)
+    2. [Acceptance Criteria](#acceptance)
     3. [Visuals](#visuals)
     4. [Build](#build)
-2. [Installations](#installations)
+2. [Installations](#installation)
 3. [License](#license)
 4. [Contributions](#contributions)
 5. [Tests](#tests)
@@ -26,17 +24,16 @@ return `
 ---
 ## About:
 
-${data.about}
+
 
 ---
 ## User Story:
 
-${data.userStory}
 
 ---
 ## Acceptance Criteria:
 
-${data.acceptanceCriteria}
+
 
 ---
 ## Visuals:
@@ -47,25 +44,25 @@ ${data.acceptanceCriteria}
 
 ## Build:
 Built With:
-${data.build}
+
 ---
 ## Installations:
 
-${data.installations}
+
 
 To clone the repo:
 
-  git clone ${data.clone}
+  git clone 
 
 ---
 ## License
-  License used for this project - ${data.license}
+  License used for this project - 
   * For more information on license types, please reference - [https: //choosealicense.com/](https://choosealicense.com/).
 
 ---
 ## Contributions:
 
-  ${data.contributions}
+  
 
   To contribute to this application, create a pull request.
   Here are the steps needed to do so:
@@ -78,18 +75,14 @@ To clone the repo:
 
 ---
 ## Tests:
-  ${data.testing}
+  
 
 ---
 ## Authors:
-  ${data.author}
+  
 
 ---
 ## Contact Information:
-* GitHub Username: ${data.gitName}
-* GitHub Email: ${data.email}
+* GitHub Username: 
+* GitHub Email: 
   
-`;
-}
-
-module.exports = generateMarkdown;

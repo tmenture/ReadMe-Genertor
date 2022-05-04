@@ -15,6 +15,24 @@ const questions = [
 
     {
         type: "input",
+        name: "userStory",
+        message: "Please provide a short User Story:"
+    },
+
+    {
+        type: "input",
+        name: "build",
+        message: "This app was built with:"
+    },
+
+    {
+        type: "input",
+        name: "acceptanceCriteria",
+        message: "Please copy and paste, or typer the acceptance criteria if you wish to include it in this README.md file."
+    },
+
+    {
+        type: "input",
         name: "about",
         message: "Tell us about the project:"
     },
