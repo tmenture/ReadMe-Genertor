@@ -1,3 +1,5 @@
+const renderLicense = require("./renderLicense");
+
 // Function to generate markdown for a professional README
 function generateMarkdown(data) {
 return `
@@ -59,7 +61,7 @@ To clone the repo:
 
 ---
 ## License
-  License used for this project - ${data.license}
+  License used for this project - ${data.license.value} 
   * For more information on license types, please reference - [https: //choosealicense.com/](https://choosealicense.com/).
 
 ---
