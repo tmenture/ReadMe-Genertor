@@ -1,16 +1,12 @@
-const renderLicense = require('./renderLicense')
 
-// Function to generate markdown for a professional README
-function generateMarkdown(data) {
-return `
 ---
-# ${data.title}
+# 
 
-  ${data.description}
+  
 
-  ${data.renderLicense}
+  [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
 
-  A deployed version can be viewed here: ${data.URL} 
+  A deployed version can be viewed here: https://github.com 
 
 ---
 ## Contents
@@ -29,17 +25,17 @@ return `
 ---
 ## About:
 
-${data.about}
+
 
 ---
 ## User Story:
 
-${data.userStory}
+
 
 ---
 ## Acceptance Criteria:
 
-${data.acceptanceCriteria}
+
 
 ---
 ## Visuals:
@@ -50,25 +46,25 @@ ${data.acceptanceCriteria}
 
 ## Build:
 Built With:
-${data.build}
+
 ---
 ## Installations:
 
-${data.installations}
+
 
 To clone the repo:
 
-  git clone ${data.clone}
+  git clone 
 
 ---
 ## License
-  License used for this project - ${data.license} 
+  License used for this project -  
   * For more information on license types, please reference - [https: //choosealicense.com/](https://choosealicense.com/).
 
 ---
 ## Contributions:
 
-  ${data.contributions}
+  
 
   To contribute to this application, create a pull request.
   Here are the steps needed to do so:
@@ -81,18 +77,14 @@ To clone the repo:
 
 ---
 ## Tests:
-  ${data.testing}
+  
 
 ---
 ## Authors:
-  ${data.author}
+  
 
 ---
 ## Contact Information:
-* GitHub Username: ${data.gitName}
-* GitHub Email: ${data.email}
+* GitHub Username: 
+* GitHub Email: 
   
-`;
-}
-
-module.exports = generateMarkdown;
