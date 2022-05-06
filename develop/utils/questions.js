@@ -70,7 +70,7 @@ const questions = [
     {
         type: "checkbox",
         name: "license",
-        message: "Are there any license's?",
+        message: "Are there any license's? If not just hit enter.",
         choices: ["MIT License", "GNU GPLv3 License", "Apache License", "Boost", "Mozilla", "GNU LGPLv3", "GNU AGPLv3"]
     },
 
