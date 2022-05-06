@@ -1,6 +1,6 @@
 
 ---
-# Run Buddy
+# 
 
   
 
@@ -12,15 +12,15 @@
 ## Contents
 
 1. [About](#about)
-    i. [User Story](#user-story)
-    ii. [Acceptance Criteria](#acceptance-criteria)
-    iii. [Visuals](#visuals)
-    iv. [Build](#build)
-2. [Installations](#installations)
-3. [License](#license)
-4. [Contributions](#contributions)
-5. [Tests](#tests)
-6. [Authors](#authors)
+2. [User Story](#user-story)
+3. [Acceptance Criteria](#acceptance-criteria)
+4. [Visuals](#visuals)
+5. [Build](#build)
+6. [Installations](#installations)
+7. [License](#license)
+8. [Contributions](#contributions)
+9. [Tests](#tests)
+10. [Authors](#authors)
 
 ---
 ## About:
@@ -58,7 +58,7 @@ To clone the repo:
 
 ---
 ## License
-  License used for this project - MIT License 
+  License used for this project -  
   * For more information on license types, please reference - [https: //choosealicense.com/](https://choosealicense.com/).
 
 ---
