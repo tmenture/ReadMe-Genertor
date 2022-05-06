@@ -10,7 +10,7 @@ return `
 
   ${data.renderLicense}
 
-  A deployed version can be viewed here: (${data.URL} 
+  A deployed version can be viewed here: ${data.URL} 
 
 ---
 ## Contents
